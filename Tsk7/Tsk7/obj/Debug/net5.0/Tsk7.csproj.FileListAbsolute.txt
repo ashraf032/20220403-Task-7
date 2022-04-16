@@ -1,0 +1,16 @@
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\bin\Debug\net5.0\Tsk7.exe
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\bin\Debug\net5.0\Tsk7.deps.json
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\bin\Debug\net5.0\Tsk7.runtimeconfig.json
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\bin\Debug\net5.0\Tsk7.runtimeconfig.dev.json
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\bin\Debug\net5.0\Tsk7.dll
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\bin\Debug\net5.0\ref\Tsk7.dll
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\bin\Debug\net5.0\Tsk7.pdb
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\Tsk7.csproj.AssemblyReference.cache
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\Tsk7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\Tsk7.AssemblyInfoInputs.cache
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\Tsk7.AssemblyInfo.cs
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\Tsk7.csproj.CoreCompileInputs.cache
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\Tsk7.dll
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\ref\Tsk7.dll
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\Tsk7.pdb
+C:\Users\Qasimov\source\repos\Tsk7\Tsk7\obj\Debug\net5.0\Tsk7.genruntimeconfig.cache
